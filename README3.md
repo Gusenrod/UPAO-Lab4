@@ -1,6 +1,4 @@
 # UPAO-Lab4
 Angular basic
 
-Desde rama de caracteristicas a Develop
-
-Desde rama Develop a Feature/Readem-Upadte
+Desde rama Feature/Readmem-Update a Feature/Readme-New-Update
